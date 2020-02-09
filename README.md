@@ -5,27 +5,16 @@ Autonomous vehicles require strong detection systems to be safe for humans. This
 ## Results 
 
 |Labels|IOU%|
-| ----- | ---- |
 | Pedestrians | 76.60 |
-| ----- | ---- |
 | Road Curb | 44.31% |
-| ----- | ---- |
 | Full single white | 32.53 |
-| ----- | ---- |
 | Full double yellow  | 63.38 |
-| ----- | ---- |
 | Full single yellow | 60.61 |
-| ----- | ---- |
 | Small vehicles | 37.70 |
-| ----- | ---- |
 | Medium vehicles | 74.38 |
-| ----- | ---- |
 | Big vehicles | 93.49 |
-| ----- | ---- |
 | Current lane | 88.24 |
-| ----- | ---- |
 | Parallel lanes | 76.27 |
-| ----- | ---- |
 
 
 
