@@ -5,6 +5,6 @@ Autonomous vehicles require strong detection systems to be safe for humans. This
 ## Results 
 
 
-![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/tree/master/Images/Kitty2_merge_1.jpg)
+![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Kitty2_merge_1.jpg)
 
 
