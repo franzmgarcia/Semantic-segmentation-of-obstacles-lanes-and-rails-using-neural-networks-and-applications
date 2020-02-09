@@ -4,13 +4,13 @@ Autonomous vehicles require strong detection systems to be safe for humans. This
 
 ## Results 
 
-![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_1.jpg)
+![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_1.jpeg)
 
-![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_2.jpg)
+![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_2.jpeg)
 
-![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_3.jpg)
+![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_3.jpeg)
 
-![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_4.jpg)
+![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Test_merge_4.jpeg)
 
 
 ![segmentation_Test1](https://github.com/franzmgarcia/Semantic-segmentation-of-obstacles-lanes-and-rails-using-neural-networks-and-applications/blob/master/Images/Kitty_merge_1.jpg)
