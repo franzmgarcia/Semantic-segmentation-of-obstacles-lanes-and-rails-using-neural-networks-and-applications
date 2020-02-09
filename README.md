@@ -5,6 +5,7 @@ Autonomous vehicles require strong detection systems to be safe for humans. This
 ## Results 
 
 |Labels|IOU%|
+| ----- | ---- |
 | Pedestrians | 76.60 |
 | Road Curb | 44.31% |
 | Full single white | 32.53 |
